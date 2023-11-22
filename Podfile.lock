@@ -1,0 +1,20 @@
+PODS:
+  - PBPopupController (3.7.0)
+  - SnapKit (5.6.0)
+
+DEPENDENCIES:
+  - PBPopupController (= 3.7.0)
+  - SnapKit
+
+SPEC REPOS:
+  trunk:
+    - PBPopupController
+    - SnapKit
+
+SPEC CHECKSUMS:
+  PBPopupController: 266f1a3a1d6058a9f7a533a3aa1ff5747b9f77c8
+  SnapKit: e01d52ebb8ddbc333eefe2132acf85c8227d9c25
+
+PODFILE CHECKSUM: d671b13df79f36e0dc60ce4ea8499dd7eac03572
+
+COCOAPODS: 1.14.3
